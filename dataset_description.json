@@ -5,19 +5,19 @@
         "Eshin Jolly",
         "Jin Hyun Cheong",
         "Kristina Rapuano",
-        "Nathan Greenstein",
-        "Pin-Hao Chen",
-        "Jeremy Manning"
+	"Nathan Greenstein",
+	"Pin-Hao Chen",
+	"Jeremy Manning"
     ],
     "BIDSVersion": "1.4.1",
-    "DatasetDOI": "10.18112/openneuro.ds003524.v1.0.0",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [
         "NIMH R01MH116026",
         "NIMH R56MH080716",
         "NSF CAREER 1848370",
-        "MOST 109-2636-H-002-006"
+	"MOST 109-2636-H-002-006"
     ],
     "HowToAcknowledge": "https://www.biorxiv.org/content/10.1101/487892v3",
-    "License": "CC0",
+    "License": "PDDL (http://opendatacommons.org/licenses/pddl/)",
     "Name": "FridayNightLights_Study1"
 }
